@@ -1,1 +1,1 @@
-# learning-gulp
+# Quick little project to learn Gulp
