@@ -1,1 +1,1 @@
-# Quick little project to learn Gulp
+# Quick Gulp learning project ![alt tag](https://github.com/edulima/learning-gulp/gulp-icon.png)
