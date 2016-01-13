@@ -1,4 +1,6 @@
-# Gulp - The Basics ![alt tag](https://github.com/edulima/learning-gulp/blob/master/gulp-icon.png)
+![alt tag](https://github.com/edulima/learning-gulp/blob/master/gulp-icon.png)
+
+# Gulp - The Basics
 
 ##Requirements
 
