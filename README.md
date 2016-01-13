@@ -1,6 +1,4 @@
-# Gulp - The Basics
-![alt tag](https://github.com/edulima/learning-gulp/blob/master/gulp-icon.png)
-
+# Gulp - The Basics ![alt tag](https://github.com/edulima/learning-gulp/blob/master/gulp-icon.png)
 
 ##Requirements
 
@@ -10,7 +8,7 @@ Node.js: You can find instructions on how to install node.js [here](https://node
 
 $ git clone git@github.com:edulima/learning-gulp.git
 
-### Install gulp globally:
+### Install gulp globally
 
 $ npm install --global gulp
 
